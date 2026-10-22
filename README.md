@@ -1,2 +1,2 @@
-# Privacy-Policy-Generator-
+# Privacy-Policy-Sweetch-
 Privacy policy for Sweetch
